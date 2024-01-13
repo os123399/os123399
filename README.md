@@ -1,4 +1,1 @@
-# oscar.
-
-founder of TWYNE.
-thats kinda it
+developer, founder of [TWYNE](https://gitlab.com/twyne) and more
